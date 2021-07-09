@@ -4,3 +4,5 @@ dog
 cat
 chickens
 pig
+horse
+duncky
