@@ -1,0 +1,6 @@
+rusty
+blue
+dog
+cat
+chickens
+pig
